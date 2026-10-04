@@ -16,11 +16,11 @@ This is an academic capstone project focused on detecting human stress levels us
 * **Version Control:** Git & GitHub
 
 ## 📂 Project Structure
-* `guimain.py` - Main dashboard / landing page interface.
-* `login.py` & `registration.py` - Manages user authentication and database operations.
+* `GUI_Main.py` - Main dashboard / landing page interface.
+* `Login.py` & `Registration.py` - Manages user authentication and database operations.
 * `stress_Analysis.py` - Core script for running stress evaluation.
-* `emotionupdated.py` - Real-time emotion/stress classification via webcam and CNN model.
-* `train.py` - Model training script.
+* `emotion_1_updated.py` - Real-time emotion/stress classification via webcam and CNN model.
+* `Train.py` - Model training script.
 * `yoga.py` - Provides yoga pose recommendations for stress relief.
 
 ## ⚙️ How to Run the Project
